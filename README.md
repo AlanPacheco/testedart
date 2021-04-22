@@ -1,6 +1,6 @@
 # Aplicação em console para Cadastro de Pessoas 
 
-## Projetinho simples com objetivo de praticar o estudo da Linguagem Dart. 
+### Projetinho simples com objetivo de praticar o aprendizado da linguagem Dart. 
 
 <p> Trata-se de uma aplicação construída em modo console com persistência em memória.</p>
 <p> Basicamente um CRUD. É possível cadastrar, alterar, listar e remover um cadastro de pessoa.</p>
